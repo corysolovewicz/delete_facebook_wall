@@ -28,7 +28,7 @@ A Tampermonkey/Greasemonkey userscript that automatically scrolls your Facebook 
 
 2. Install the script via:
 
-   - [RAW GitHub Link](https://raw.githubusercontent.com/your-username/facebook-post-cleaner/main/cleaner.user.js) *(replace with actual path)*
+   - [RAW GitHub Link](https://github.com/corysolovewicz/delete_facebook_wall/raw/refs/heads/main/cleaner.user.js)
 
 3. Navigate to `facebook.com` and click the 🧹 **Clean Posts** button to begin.
 
